@@ -2,6 +2,16 @@
 
 Neste CheckPoint, utilizamos o dataset <a href="https://www.tensorflow.org/datasets/catalog/horses_or_humans">Horses or Humans</a> do TensorFlow para treinar um modelo de classificação de imagens.
 
+<img src="Screenshot_1.png" title="Dataset Horses Or Humans">
+
+Observamos os resultados do treinamento:
+
+<img src="Screenshot_2.png" title="Gráfico Acurácia/Perda">
+
+Testamos as predições do modelo utilizando imagens diferentes das dos dataset inicial:
+
+<img src="Screenshot_3.png" title="Predições do Modelo">
+
 <h3>Bibliotecas/Frameworks Utilizados:</h3>
 <ul>
   <li> Os
